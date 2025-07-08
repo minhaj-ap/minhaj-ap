@@ -26,8 +26,8 @@
 
 ### 📫 Let's Connect
 
-- 🔗 Portfolio: [portfolio-minhaj.vercel.app](https://portfolio-minhaj.vercel.app)
-- 📧 Email: minhajap00@gmail.com
+- 🔗 Portfolio: [minhajap.xyz](https://minhajap.xyz)
+- 📧 Email: [minhajap00@gmail.com](mailto: minhajap00@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/minhaj-ap](https://www.linkedin.com/in/minhaj-ap-7662ab2b1/)
 - 🧠 Projects: [github.com/minhaj-ap](https://github.com/minhaj-ap)
 
